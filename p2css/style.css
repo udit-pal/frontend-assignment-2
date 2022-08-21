@@ -1,0 +1,102 @@
+.fullpage{
+    background-image: linear-gradient(to bottom right, rgba(232, 41, 41, 0.61), rgba(153, 84, 153, 0.998));
+}
+.container{
+    display: flex;
+}
+.A{
+    justify-content:center;
+    text-align: center;
+    width: 235px;
+    background-color: rgb(217, 171, 21);
+    margin: auto;
+    padding: 5px;
+    font-weight: bolder;
+}
+.container1{
+    margin: 5px;
+    display: flex;
+}
+.B1{
+   margin:2.5px 0px 2.5px 2.5px;
+}
+.B2{
+    margin: 2.5px 2.5px 2.5px 0px;
+}
+.cc1{
+    margin: 0px 9px 9px 9px;
+    background-color:rgb(217, 171, 21); 
+    padding: 73px 130px 73px 130px ;
+    font-size: 30px;
+}
+.small{
+    font-size: small;
+    padding: 0px 0px 0px 20px;
+}
+.small1{
+    font-size: small;
+    padding: 0px 0px 0px 4px;
+}
+.container2{
+    display: flex;
+}
+.cc2{
+    margin: auto;
+    padding: 5px;
+}
+.ccc1{
+    background-color:white;
+    padding: 50px;
+    justify-content: center;
+    text-align: center;
+}
+.ccc2{
+    background-color:white;
+    padding: 10px ;
+    justify-content: center;
+    font-size:small;
+}
+.container3{
+    background-color: white;
+    width: 1236px;
+    height: 50%;
+    margin: 5px;
+    display: flex;
+}
+.b{
+    background-color: rgb(217, 171, 21); 
+    width:120px;
+    text-align: center;
+    justify-content: center;
+    padding: 8px;
+}
+.container4{
+    display: flex;
+    margin: 25px 5px;
+}
+.c4,.c6{
+    width: 557px;
+    height: 10px;
+    background-image:linear-gradient(to right,rgba(153, 82, 82, 0.61), rgba(222, 229, 14, 0.998));
+    padding-top: 4px;
+}
+.c6{
+    width: 557px;
+    height: 10px;
+    background-image:linear-gradient(to right,rgba(222, 229, 14, 0.998),rgba(99, 57, 99, 0.998));
+    padding-top: 4px;
+}
+.c5{
+    margin: 0px 10px;
+    font-weight: bolder;
+    
+}
+.container5{
+    display: flex;
+    margin: 5px;
+}
+.cc5{
+    width: 167px;
+    height: 167px;
+    margin: 5px;
+}
